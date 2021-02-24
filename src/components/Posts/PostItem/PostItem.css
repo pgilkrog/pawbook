@@ -1,0 +1,58 @@
+.PostItemWrap {
+    border-radius: 5px;
+    box-shadow: 0 2px 5px #999;
+    width: 500px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.PostUserTop {
+    width: 96%;
+    height: 60px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.PostUserImg {
+    height: 100%;
+    width: 60px;
+    float: left;
+    margin: 0 auto;
+}
+
+.PostUserTitle {
+    text-align: left;
+    height: 100%;
+    width: 410px;
+    margin: -10px 5px;
+    float: left;
+    font-weight: bolder;
+}
+
+.PostUserText {
+    width: 96%;
+    text-align: justify;
+    margin-left: 10px;
+}
+
+.PostUserCommentList {
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    background-color: #eee;
+    width: 100%;
+    height: auto;
+    text-align: left;
+}
+
+.PostUserComment {
+    width: 100%;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.PostDelete {
+    float: right; 
+    cursor: pointer; 
+    font-size: .7rem; 
+    font-style: italic;
+}

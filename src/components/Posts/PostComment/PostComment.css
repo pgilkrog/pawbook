@@ -1,0 +1,28 @@
+.CommentWrap {
+    width: 100%;
+    height: auto;
+    padding: 5px;
+    display: grid;
+    grid-template-columns: 80px 405px;
+}
+
+.CommentWrap p {
+    font-size: 14px;
+    text-align: justify;
+}
+
+.CommentWrap i {
+    color: #007338;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 18px;
+}
+
+.CommentImage {
+    width: 80px;
+}
+
+.CommentContent {
+    padding-left: 5px;
+    margin-top: -10px;
+}
